@@ -6,7 +6,7 @@ import input_durchstanzen
 
 
 # Last-Plattenrotation-Charakteristik (Näherung)
-steps = 200
+steps = 500
 V_di = np.linspace(10,8000,steps)    # Querkraftbeanspruchung [kN]
 
 
